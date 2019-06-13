@@ -46,7 +46,7 @@ Step1 : https://github.com/garystone1/cornhub 輸入該網址即可進入github�
 石詠太: Searching、Google-log-in(失敗，因為網路驗證沒過，沒辦法通過google驗證，因為 https://softwarestudio.2y.idv.tw 
 並非我所擁有的網域，因此網域驗證沒過，資料存取遭拒)、database管理、輸出文件(ReadMe)
 
-景璞:
+景璞:影片播放頁面（影片播放，留言) ,檔案頁面（由於server端不穩定，今天測試時發現無法穩定上傳）
 
 沈芷萱:
 
